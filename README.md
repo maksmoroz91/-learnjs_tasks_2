@@ -1,1 +1,1 @@
-# Performing tasks Learnjs
+# Выполнение заданий Learnjs из глав
